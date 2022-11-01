@@ -8,3 +8,8 @@
 
 # Reference
 - Etter, A. (2016). Modern Technical Writing. Andrew Etter. 
+
+# FAQs
+- Why is Markdown better than a word
+processor?
+- Why is my resume not showing up?
