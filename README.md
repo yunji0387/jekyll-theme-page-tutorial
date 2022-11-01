@@ -1,6 +1,9 @@
 # How to host and format a resume using Jekyll and GitHub Pages
 - This README.md will provide a tutorial for how to host and format a resume using Jekyll and GitHub Pages with step-by-step instructions.
 
+# Markdown tutorial
+- to learn more about markdown, [here is the tutorial.](https://www.markdowntutorial.com/)
+
 # Etter's key principals
 - Define the Audience
   - we should always know our audience well, the less techical knowledge we expected from user, the more specific the document need to be.
