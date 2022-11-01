@@ -1,8 +1,19 @@
 # How to host and format a resume using Jekyll and GitHub Pages
 - This README.md will provide a tutorial for how to host and format a resume using Jekyll and GitHub Pages with step-by-step instructions.
 
-# Markdown tutorial
+# Instructions
+Below is the step-by-step tutorial for host and format a resume using Jekyll and GitHub Pages. 
+## Creating a resume using markdown
+- First, we have to create a resume in markdown format, if you are not familiar with markdown yet, the is a tutorial under the [More Resources](#More-Resources) section.
+## Creating a repositories
+- Then, we have to create a repositories in order to host the resume on GitHub Pages
+## Redirecting the Source path for GitHub Page
+-  In order to render you resume on GitHub Pages, you will need to redirect the Source path to the branch and path where your resume file is located at.
+
+
+# More Resources
 - to learn more about markdown, [here is the tutorial.](https://www.markdowntutorial.com/)
+- "[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)" written by Andrew Etter.
 
 # Etter's key principals
 - Define the Audience
@@ -22,6 +33,9 @@
 - Etter, A. (2016). Modern Technical Writing. Andrew Etter. 
 
 # FAQs
-- Why is Markdown better than a word
+- Why is Jekyll better than HTML?
+    - Jekyll automatically generate a website for us to use rather creating a website from scratch, which make web development more easier.
 processor?
 - Why is my resume not showing up?
+    - remember to check your GitHub pages source is set to the branch that contains the markdown that you want to render.
+        -  the GitHub pages source is located at the Settings -> GitHub Pages section.
