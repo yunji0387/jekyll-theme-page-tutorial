@@ -26,7 +26,7 @@ Below is the step-by-step tutorial for host and format a resume using Jekyll and
   
   
 # Authors and Acknowledgments
-- template authors : GitHub,Inc.
+- template authors : [Steve Smith](), GitHub,Inc.
 - group members : Kim Gyuri , Anghan Dharmit Kishorbhai , Ahir Md Ahiduzzaman
 
 # Reference
