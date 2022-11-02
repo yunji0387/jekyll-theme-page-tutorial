@@ -25,7 +25,7 @@ Below is the step-by-step tutorial for hosting a resume using GitHub Pages and J
       - If you would like to host your resume with an existing repository, skip to the "Configuring a publishing source for your GitHub Pages website" section.
   2. In your GitHub profile homepage, in the upper-right corner, select the "+" icon for the drop-down menu, and select "New repository". 
   3. Under the "Repository name", type a name for your repository.
-  -  ![Image](gitRepoName.png)
+  -  ![Image](/docs/gitRepoName.png)
   4. Make sure your repository is set to public.
   5. Add a README file to your repository automatically by checking the "Add a README file" checkbox.
   6. Select "Create repository" at around the bottom of the page.
@@ -36,7 +36,7 @@ Below is the step-by-step tutorial for hosting a resume using GitHub Pages and J
   3. Under the "Build and deployment" section:
    - Under the "Source", select "Deploy from a branch".
    - Under the "Branch", select the branch where you want to store your resume. If you would like to store your resume in a folder, make sure to set to the specific folder for your publishing source.
-   - ![Image](gitConfigBranch.png)![Image](gitConfigBranch2.png)
+   - ![Image](/docs/gitConfigBranch.png)![Image](/docs/gitConfigBranch2.png)
   4. select "Save".
     
 ### Upload your Markdown format resume to your GitHub repository
@@ -45,31 +45,31 @@ Below is the step-by-step tutorial for hosting a resume using GitHub Pages and J
   2. At around the top left page, select the "Code" section.
   3. Select "Add file".
   4. Select "Upload file", then upload your Markdown format resume, and optionally you can leave a message and description under the "Commit changes" section.
-   - ![Image](gitUploadFile.png)
+   - ![Image](/docs/gitUploadFile.png)
   5. Select "Commit changes" at around the bottom of the page.
   
 ### Creating a Jekyll template for your static website
 ##### Etter also highly recommends using static site generators for documentation because, unlike dynamic sites, the static site does not have dependencies issues, so it is easy to migrate the entire website.  
   1. Still in the code section, select "Add file".
   2. select "Create new file", then name your file as "_config.yml".
-   - ![Image](gitCreateFile.png) 
+   - ![Image](/docs/gitCreateFile.png) 
   3. Scroll to bottom of the page, optionally you can add some message and description for this change under "Commit new file" section.
   4. Select "Commit new file".
   5. Go to GitHub Pages' [Supported themes website](https://pages.github.com/themes/), there is a variety of supported themes you can choose from, simply select any one of the themes and you will go to the GitHub repository page of the supported theme, and under the README.md section, select the "preview the theme to see what it looks like" will show you how is the theme looks like.
-   - ![Image](gitThemePreview.png)  
+   - ![Image](/docs/gitThemePreview.png)  
   6. Select a theme that you would like to use.
   7. Once you have decided which supported theme you would like to use, select the themes, and got to the README.md section, and under the "Usage" section, follow the first step, add the following codes to your "_config.yml" file.
-   - ![Image](gitAddConfig.png)
+   - ![Image](/docs/gitAddConfig.png)
 
 ### Hosting your resume to GitHub server
 ##### In Etter's book, he encourages editors to use Websites for documentation instead of PDFs, because most of the documentation will eventually become outdated, when we have options for readers to save the PDFs to their computer locally, there are chances that some readers might have read the outdated documentations. So using websites, the reader can ensure they always have the updated version of the documentation.  
   1. At the code section, at around bottom right of the page, Under "Environments" section, select "github-pages"
-   - ![Image](gitGhPages.png)
+   - ![Image](/docs/gitGhPages.png)
   2. At right side of the page, select "View deployment".
-   - ![Image](gitViewDeploy.png)
+   - ![Image](/docs/gitViewDeploy.png)
   3. Now you are able to see your resume on the website hosted by GitHub server.
   4. Your page will look similar to [this](https://yunji0387.github.io/).
-  ![GIF](myResume.gif)
+  ![GIF](/docs/myResume.gif)
 
 ## More Resources
 -  Markdown Language Tutorial
