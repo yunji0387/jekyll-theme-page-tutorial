@@ -1,9 +1,9 @@
 Yun Ji How
 ============
 
---------- ---------  
+--------- 
 820 Silverstone Ave Winnipeg R3T 2W6 Canada | yunji0387@gmail.com | 4315885209
---------- ---------  
+---------
 
 EDUCATION
 ---------
