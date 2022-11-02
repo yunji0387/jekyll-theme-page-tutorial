@@ -16,7 +16,7 @@ Below is the step-by-step tutorial for hosting a resume using GitHub Pages and J
 
 ### Creating a GitHub account
   1. If you do not have a GitHub account yet, go to the [GitHub homepage](https://github.com/), in the top left corner, and select the signup button to create a GitHub account. After the account is created, log in to your account.
-  - ![Image](gitSignUP.png)
+  - ![Image](/docs/gitSignUP.png)
 
 ### Creating a repositories
 ##### Etter encourages developers to store documentation in the same repository as its corresponding website or source code, so that the documentation and source code branches will always stay in sync.
