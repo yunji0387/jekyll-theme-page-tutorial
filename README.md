@@ -69,7 +69,7 @@ Below is the step-by-step tutorial for hosting a resume using GitHub Pages and J
    - ![Image](/docs/gitViewDeploy.png)
   3. Now you are able to see your resume on the website hosted by GitHub server.
   4. Your page will look similar to [this](https://yunji0387.github.io/).
-  ![GIF](/docs/myResume.gif)
+   - ![GIF](/docs/myResume.gif)
 
 ## More Resources
 -  Markdown Language Tutorial
